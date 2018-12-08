@@ -24,9 +24,9 @@ header img {
 }
 
 header {
-  background-color: #08AEEA;
-  background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
-    }
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
 
 .button-row {
   text-align: center;
@@ -54,8 +54,10 @@ header {
 }
 
 .filled-button {
-  color: #116f85;
-  background-color: #ffffff;
+  color: #FFF;
+  background-color: #ffc400;
+  border-color: #ffc400 !important;
+  font-weight: bold;
 }
 
 .hollow-button {
